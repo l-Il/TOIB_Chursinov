@@ -6,3 +6,5 @@
 Программа в файле main.py
 
 ![image](https://i.imgur.com/PYPl0VZ.png)
+
+![image](https://i.imgur.com/CMP7YWU.png)

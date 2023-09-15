@@ -5,4 +5,4 @@
 
 Программа в файле main.py
 
-![image](https://i.imgur.com/DKNtAnE.png)
+![image](https://i.imgur.com/PYPl0VZ.png)
